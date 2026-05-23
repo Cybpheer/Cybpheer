@@ -20,7 +20,7 @@ class Abderrahman:
     os          = "Linux 🐧"
     editor      = "VS Code"
     focus       = ["Low-level C", "Web Dev"]
-    learning    = ["CyberSecurity", "AI","FPGA"]
+    learning    = ["CyberSecurity", "AI","FPGA","Low-level C"]
 
 ```
 
