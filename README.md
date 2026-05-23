@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6378ff,100:a78bfa&height=230&section=header&text=Hey%2C%20I'm%20Alex%20👋&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Linux%20Enthusiast%20%7C%20FPGA%20Explorer&descAlignY=58&descSize=17&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6378ff,100:a78bfa&height=230&section=header&text=Hey%2C%20I'm%20Abderrahman%20👋&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Linux%20Enthusiast%20%7C%20FPGA%20Explorer&descAlignY=58&descSize=17&animation=fadeIn)
 
 <img src="./scuba.gif" width="140" />
 
@@ -15,13 +15,13 @@
 ## 🧑‍💻 About Me
 
 ```python
-class Alex:
+class Abderrahman:
     location    = "Nador, Morocco 🇲🇦"
     os          = "Linux 🐧"
     editor      = "VS Code"
     focus       = ["FPGA Design", "Low-level C", "Web Dev"]
-    learning    = ["Verilog / VHDL", "Hardware Description"]
-    fun_fact    = "I once watched an F1 car hit a مرموط live 🦫"
+    learning    = ["CyberSecurity", "AI"]
+
 ```
 
 - 🔭 Currently working on **FPGA projects with Quartus Prime**
