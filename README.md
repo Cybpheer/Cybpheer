@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6378ff,100:a78bfa&height=230&section=header&text=Hey%2C%20I'm%20Abderrahman%20👋&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Linux%20Enthusiast%20%7C%20%20&descAlignY=58&descSize=17&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6378ff,100:a78bfa&height=230&section=header&text=%20Abderrahman%20👋&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Linux%20Enthusiast%20%7C%20%20&descAlignY=58&descSize=17&animation=fadeIn)
 
 <img src="./scuba.gif" width="140" />
 
