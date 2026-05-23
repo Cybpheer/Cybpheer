@@ -19,8 +19,8 @@ class Abderrahman:
     location    = "Nador, Morocco 🇲🇦"
     os          = "Linux 🐧"
     editor      = "VS Code"
-    focus       = ["FPGA Design", "Low-level C", "Web Dev"]
-    learning    = ["CyberSecurity", "AI"]
+    focus       = ["Low-level C", "Web Dev"]
+    learning    = ["CyberSecurity", "AI","FPGA"]
 
 ```
 
